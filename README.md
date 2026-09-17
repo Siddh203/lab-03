@@ -2,16 +2,16 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Siddh Patel>`
+- **CCID:** `<siddh1>`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+ChatGPT - Used to test the program and fix my emulator(My old mac is slow). 
 
 ## Verbal Collaboration
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `Abhishek Shah`    | `arshah2` |
+
